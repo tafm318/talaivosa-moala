@@ -12,4 +12,4 @@ I expect the tomato beds and mesclun beds to stop when their marginal cost catch
 
 If the tomatoes come in below 16 beds then the work cost is lower.
 If the carrots come in below 20 beds then the work cost is lower.   
-If the mescluns come in below 20 beds then the work cost is lower. 
+If the mescluns come in below 28 beds then the work cost is lower. 
