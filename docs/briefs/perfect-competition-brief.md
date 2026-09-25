@@ -10,6 +10,11 @@ Tomatoes have the highest revenue per bed but the highest diminishing returns ra
 
 I expect the tomato beds and mesclun beds to stop when their marginal cost catches up to their price. I expect the carrot beds to stop when it hits it bed cap. 
 
-If the tomatoes come in below 16 beds then the work cost is lower.
-If the carrots come in below 20 beds then the work cost is lower.   
-If the mescluns come in below 28 beds then the work cost is lower. 
+My tomato number of 16 is too high if bed 16 already costs more work than it earns.
+My tomato number of 16 is too low if bed 17 still earns more than its extra work costs.
+
+My carrots number of 20 is too high if bed 20 already costs more work than it earns. 
+My carrots number of 20 is too low if bed 21 still earns more than its extra work costs. 
+
+My mesclun number of 28 is too high if bed 28 already costs more work than it earns.
+My mesclun number of 28 is too low if bed 29 still earns more than its extra works costs.
