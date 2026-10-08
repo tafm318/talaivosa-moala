@@ -48,6 +48,7 @@ Mesclun_Revenue = Mesclun_Beds_Planted x Mesclun_Revenue_Per_Bed
 Total_Revenue = Tomato_Revenue + Carrot_Revenue + Mesclun_Revenue
 Total_Own_Cost = Own_Hours_Used x Own_Labor_Rate
 Total_Temp_Cost = Temp_Hours_Used x Temp_Labor_Rate
+The blended labor rate is calculated by dividing the total labor cost by the total labor hours
 Total_Profit = Total_Revenue - Total_Fertilizer_Cost - Total_Own_Cost - Total_Temp_Cost
 Checks
 The Checks sheet shows whether own hours and temp hours stay within their limits
