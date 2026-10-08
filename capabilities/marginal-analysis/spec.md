@@ -60,6 +60,7 @@ The Marginal Cost shows the cost for each added bed
 Optimization
 The Optimization sheet shows the best bed mix that gives the highest profit.
 Excel solver is used to find the best bed mix of tomato, carrot, and mesclun beds that produces the highest profit while following the farm's limits 
+Excel solver will use the GRG Nonlinear solving method to find the most profitable mix of crops
 The model's best mix is 10 tomato beds, 20 carrot beds, and 30 mesclun beds.
 The best mix gives total profit of $62,775.16.
 My hypothesis was 16 tomatoes, 20 carrots, and 28 mescluns, but the model's best mix is 10 tomatoes, 20 carrots, and 30 mescluns. 
