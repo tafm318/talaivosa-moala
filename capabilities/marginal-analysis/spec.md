@@ -53,6 +53,7 @@ Checks
 The Checks sheet shows whether own hours and temp hours stay within their limits
 The total number of tomato, carrot, and mesclun beds planted must not exceed 64 beds
 Each crop has its own maximum number of beds: tomatoes is 20 beds, carrots is 20 beds, and mesclun is 30 beds
+The farm can use a maximum of 4 temporary workers
 Marginal Cost
 The Marginal Cost shows the cost for each added bed
 Optimization
