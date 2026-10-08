@@ -32,9 +32,9 @@ Labor_Cost: shows the total money spent on labor
 Marginal_Cost: shows the extra cost of adding a bed compared with the revenue that bed earns
 Optimization: shows the best bed mix that gives the highest profit
 Calculation Logic
-Tomato_Hours_Used = Tomato_Beds_Planted x Tomato_Field_Hours x Season_Weeks
-Carrot_Hours_Used = Carrot_Beds_Planted x Carrot_Field_Hours x Season_Weeks
-Mesclun_Hours_Used = Mesclun_Beds_Planted x Mesclun_Field_Hours x Season_Weeks
+Tomato_Hours_Used = Tomato_Beds_Planted x Tomato_Field_Hours x Season_Weeks x (1 + Tomato_Diminishing_Rate)^Tomato_Beds_Planted
+Carrot_Hours_Used = Carrot_Beds_Planted x Carrot_Field_Hours x Season_Weeks x (1 + Carrot_Diminishing_Rate)^Carrot_Beds_Planted
+Mesclun_Hours_Used = Mesclun_Beds_Planted x Mesclun_Field_Hours x Season_Weeks x (1 + Mesclun_Diminishing_Rate)^Mesclun_Beds_Planted
 Total_Field_Hours_All = Tomato_Hours_Used + Carrot_Hours_Used + Mesclun_Hours_Used
 Tomato_Fertilizer_Cost = Tomato_Beds_Planted x Tomato_Fertilizer_Per_Bed
 Carrot_Fertilizer_Cost = Carrot_Beds_Planted x Carrot_Fertilizer_Per_Bed
