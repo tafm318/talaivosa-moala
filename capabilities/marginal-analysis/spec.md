@@ -51,6 +51,7 @@ Total_Temp_Cost = Temp_Hours_Used x Temp_Labor_Rate
 Total_Profit = Total_Revenue - Total_Fertilizer_Cost - Total_Own_Cost - Total_Temp_Cost
 Checks
 The Checks sheet shows whether own hours and temp hours stay within their limits
+The total number of tomato, carrot, and mesclun beds planted must not exceed 64 beds
 Marginal Cost
 The Marginal Cost shows the cost for each added bed
 Optimization
