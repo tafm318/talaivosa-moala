@@ -36,6 +36,8 @@ Tomato_Hours_Used = Tomato_Beds_Planted x Tomato_Field_Hours x Season_Weeks x (1
 Carrot_Hours_Used = Carrot_Beds_Planted x Carrot_Field_Hours x Season_Weeks x (1 + Carrot_Diminishing_Rate)^Carrot_Beds_Planted
 Mesclun_Hours_Used = Mesclun_Beds_Planted x Mesclun_Field_Hours x Season_Weeks x (1 + Mesclun_Diminishing_Rate)^Mesclun_Beds_Planted
 Total_Field_Hours_All = Tomato_Hours_Used + Carrot_Hours_Used + Mesclun_Hours_Used
+Farmer's hours: Maximum 720 hours, but if the farm needs less than 720 hours, the farmer can work all those hours
+Temporary workers' hours: If the farm needs more than 720 hours, temporary workers cover the remainder
 Tomato_Fertilizer_Cost = Tomato_Beds_Planted x Tomato_Fertilizer_Per_Bed
 Carrot_Fertilizer_Cost = Carrot_Beds_Planted x Carrot_Fertilizer_Per_Bed
 Mesclun_Fertilizer_Cost = Mesclun_Beds_Planted x Mesclun_Fertilizer_Per_Bed
