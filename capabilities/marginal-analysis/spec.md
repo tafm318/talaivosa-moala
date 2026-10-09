@@ -50,7 +50,7 @@ Total_Revenue = Tomato_Revenue + Carrot_Revenue + Mesclun_Revenue
 Total_Own_Cost = Own_Hours_Used x Own_Labor_Rate
 Total_Temp_Cost = Temp_Hours_Used x Temp_Labor_Rate
 The blended labor rate is calculated by dividing the total labor cost by the total labor hours
-Total_Profit = Total_Revenue - Total_Fertilizer_Cost - Total_Own_Cost - Total_Temp_Cost
+Total_Profit = Total_Revenue - Total_Fertilizer_Cost - Total_Own_Cost - Total_Temp_Cost - $20,000 fixed costs
 Checks
 The Checks sheet shows whether own hours and temp hours stay within their limits
 The total number of tomato, carrot, and mesclun beds planted must not exceed 64 beds
@@ -65,6 +65,6 @@ Excel solver is used to find the best bed mix of tomato, carrot, and mesclun bed
 Excel solver will use the GRG Nonlinear solving method to find the most profitable mix of crops
 Excel solver will be tested at two different starting points. The first test: 0 tomato beds, 0 carrot beds, and 0 mesclun beds. The second test: 20 tomato beds, 0 carrot beds, and 0 mesclun beds.
 The model's best mix is 10 tomato beds, 20 carrot beds, and 30 mesclun beds.
-The best mix gives total profit of $62,775.16.
+The best mix gives total profit of $42,775.16.
 My hypothesis was 16 tomatoes, 20 carrots, and 28 mescluns, but the model's best mix is 10 tomatoes, 20 carrots, and 30 mescluns. 
 Tomatoes changed from 16 to 10 because the added tomatoes cost more with labor pay and fertilizer compared to $8,800 revenue per bed.
