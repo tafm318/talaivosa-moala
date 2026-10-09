@@ -70,3 +70,4 @@ My hypothesis was 16 tomatoes, 20 carrots, and 28 mescluns, but the model's best
 Tomatoes changed from 16 to 10 because the added tomatoes cost more with labor pay and fertilizer compared to $8,800 revenue per bed.
 Audit Findings
 I tested the Excel Solver using two different starting points: 0 tomato, 0 carrot, and 0 mesclun beds; and 20 tomato, 0 carrot, and 0 mesclun beds. Both tests returned the same optimal planting mix of 10 tomato, 20 carrot, and 30 mesclun beds. The workbook calculated a seasonal profit of $42,775.16, compared with approximately $42,762 in the Farm Profit Lab. I checked the labor assumptions and pay rates, but the small difference in labor costs remains unexplained.
+I also verified the labor formula by hand for one tomato bed (q = 1). The calculation is 1 × 2.5 × 36 × (1.10)^1 = 99 labor hours. The Marginal_Cost sheet also shows 99 hours, so the hand calculation matches the workbook.
