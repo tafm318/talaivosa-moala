@@ -1,21 +1,11 @@
-# Marginal Analysis - Spec
+# Marginal Analysis Workbook
 
-## 1. Purpose
-- one sentence on what this workbook decides
+This Excel workbook analyzes the costs, revenue, labor requirements, and profit of planting tomatoes, carrots, and mesclun.
 
-## 2. Inputs
-| Name | Unit | Source |
-| --- | --- | --- |
-| | | |
+It uses marginal analysis and Excel Solver to identify a planting plan that maximizes seasonal profit while respecting bed and labor limits.
 
-## 3. Structure
-- sheets and what each one holds
+The workbook includes input assumptions, crop calculations, marginal costs, constraint checks, and an optimization sheet.
 
-## 4. Calculation logic
-- steps in order, in plain words
+The requirements and calculation rules are documented in `spec.md`.
 
-## 5. Validation rules
-- limits to check, e.g. caps, totals
-
-## 6. Outputs
-- what the answer looks like
+**Exercised in:** `model.xlsx`
