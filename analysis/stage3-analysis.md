@@ -24,3 +24,7 @@ The model predicts a seasonal profit of $42,775.16, but actual profits could be 
 
 ## Recommendation
 Based on the results of my economic model, I would recommend planting 10 tomato beds, 20 carrot beds, and 30 mesclun beds. This combination is projected to generate the highest seasonal profit of $42,775.16 under the model's assumptions. Although there are risks, such as unpredictable weather and increasing labor costs, taking calculated risks is part of running a business. I would follow the recommended planting mix because the model provides evidence that this combination is the most profitable option. However, I would continue monitoring costs and growing conditions and adjust the planting plan if circumstances change.
+
+## Four Economic Questions
+I would stop at the 10th bed because any planted beds after that number would be a lose. It's not just about revenue it's about production cost as well. all costs need to be taken into consideration when running a farm.
+
