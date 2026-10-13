@@ -27,8 +27,8 @@ Based on the results of my economic model, I would recommend planting 10 tomato 
 
 ## Four Economic Questions
 
-### Question 1: Where Does the Money Crop Stop, and Why There?I would stop at the 10th bed because any planted beds after that number would be a lose. 
-It's not just about revenue it's about production cost as well. all costs need to be taken into consideration when running a farm.
+### Question 1: Where Does the Money Crop Stop, and Why There?
+I would stop at the 10th bed because any planted beds after that number would be a lose. It's not just about revenue it's about production cost as well. all costs need to be taken into consideration when running a farm.
 
 ### Question 2: Which Constraints Bind, and What Would Relaxing One Be Worth?
 I would plant more carrots because the additional revenue is more than the additional cost so there should be a profit.
