@@ -31,3 +31,5 @@ I would stop at the 10th bed because any planted beds after that number would be
 I would plant more carrots because the additional revenue is more than the additional cost so there should be a profit.
 ### Question 3: Does Any Marginal Cost Curve Ever Fall, and What Would Explain It?
 It won't be a lose because the workers pay is less for the same amount of money. The farm is spending less money on labor.
+### Question 4: Would Each Crop Make Money on Its Own, and Does That Matter?
+I would still plant the tomatoes because they are a profit. The rent is a fixed variable. profit or not profit it's still due. Additional labor and fertilizer matter because it might be more or less of a profit.
